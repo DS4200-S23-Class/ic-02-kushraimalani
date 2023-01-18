@@ -1,17 +1,20 @@
-<!DOCTYPE html>
-<html> 
+body {
+    font-family: Arial; 
+}
 
-<head>
-    <title>ic-02</title>
-    <meta charset=utf-8/>
-</head>
+.centered {
+    text-align: center;
+}
 
+.container {
+    border: 1px solid black;
+}
 
-<body>
-    <h1>Intro to HTML and CSS</h1>
-    <h2>Kush Raimalani</h2>
+#p1 {
+    color: DarkGreen;
+}
 
-
-</body>
-
-</html>
+#other-text {
+    text-align: left;
+    color: blue;
+    font-weight: bold;
